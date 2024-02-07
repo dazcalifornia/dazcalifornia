@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Lunar](https://github.com/dazcalifornia/Lunar)
 
-- 👨‍💻 All of my projects are available at [http://franx-webpage.vercel.app/](http://franx-webpage.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.franx.dev/](https://www.franx.dev/)
 
-- 📝 I regularly write articles on [http://franx-webpage.vercel.app/](http://franx-webpage.vercel.app/)
+- 📝 I regularly write articles on [https://www.franx.dev/](https://www.franx.dev/)
 
 - 📫 How to reach me **franx.essential@gmail.com**
 
