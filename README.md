@@ -29,98 +29,111 @@
 
 ### 🚀 Languages and Tools
 
+<h4>🖥️ Languages</h4>
 <table>
   <tr>
-    <td>Android</td>
-    <td>Angular</td>
-    <td>Arduino</td>
-  </tr>
-  <tr>
-    <td>Bash</td>
-    <td>Blender</td>
-    <td>Bootstrap</td>
-  </tr>
-  <tr>
-    <td>Bulma</td>
     <td>C</td>
     <td>C++</td>
-  </tr>
-  <tr>
-    <td>CSS3</td>
-    <td>Dart</td>
-    <td>Docker</td>
-  </tr>
-  <tr>
-    <td>Electron</td>
-    <td>Express</td>
-    <td>Figma</td>
-  </tr>
-  <tr>
-    <td>Firebase</td>
-    <td>Flask</td>
-    <td>Flutter</td>
-  </tr>
-  <tr>
-    <td>Framer</td>
-    <td>Google Cloud</td>
-    <td>Git</td>
-  </tr>
-  <tr>
-    <td>Go</td>
-    <td>GraphQL</td>
-    <td>HTML5</td>
-  </tr>
-  <tr>
-    <td>Illustrator</td>
     <td>Java</td>
+  </tr>
+  <tr>
     <td>JavaScript</td>
+    <td>TypeScript</td>
+    <td>Python</td>
   </tr>
   <tr>
-    <td>Kotlin</td>
-    <td>Laravel</td>
-    <td>Linux</td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-    <td>MySQL</td>
-    <td>Next.js</td>
-  </tr>
-  <tr>
-    <td>Nginx</td>
-    <td>Node.js</td>
-    <td>OpenCV</td>
-  </tr>
-  <tr>
-    <td>Pandas</td>
-    <td>Photoshop</td>
+    <td>Dart</td>
+    <td>Go</td>
     <td>PHP</td>
   </tr>
   <tr>
-    <td>Postman</td>
-    <td>React</td>
-    <td>React Native</td>
-  </tr>
-  <tr>
-    <td>Realm</td>
-    <td>Scikit-Learn</td>
-    <td>Seaborn</td>
-  </tr>
-  <tr>
-    <td>Svelte</td>
-    <td>TailwindCSS</td>
-    <td>TensorFlow</td>
-  </tr>
-  <tr>
-    <td>TypeScript</td>
-    <td>Unity</td>
-    <td>Vue.js</td>
-  </tr>
-  <tr>
-    <td>Xamarin</td>
-    <td>Adobe XD</td>
-    <td></td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>Bash</td>
   </tr>
 </table>
+
+<h4>⚙️ Frameworks & Libraries</h4>
+<table>
+  <tr>
+    <td>React</td>
+    <td>React Native</td>
+    <td>Next.js</td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>Vue.js</td>
+    <td>Svelte</td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>Express</td>
+    <td>Laravel</td>
+  </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>Electron</td>
+    <td>Xamarin</td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>TailwindCSS</td>
+    <td>Bulma</td>
+  </tr>
+</table>
+
+<h4>🛠️ Tools & Platforms</h4>
+<table>
+  <tr>
+    <td>Git</td>
+    <td>Docker</td>
+    <td>Firebase</td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>Nginx</td>
+    <td>Linux</td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Arduino</td>
+    <td>Postman</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>MongoDB</td>
+    <td>Realm</td>
+  </tr>
+</table>
+
+<h4>🎨 Design</h4>
+<table>
+  <tr>
+    <td>Figma</td>
+    <td>Adobe XD</td>
+    <td>Illustrator</td>
+  </tr>
+  <tr>
+    <td>Photoshop</td>
+    <td>Framer</td>
+    <td>Blender</td>
+  </tr>
+</table>
+
+<h4>🧠 Data Science & ML</h4>
+<table>
+  <tr>
+    <td>Pandas</td>
+    <td>Seaborn</td>
+    <td>Scikit-learn</td>
+  </tr>
+  <tr>
+    <td>TensorFlow</td>
+    <td>OpenCV</td>
+    <td>GraphQL</td>
+  </tr>
+</table>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazcalifornia&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dazcalifornia" /></p>
