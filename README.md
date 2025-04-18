@@ -29,61 +29,98 @@
 
 ### 🚀 Languages and Tools
 
-- Android  
-- Angular  
-- Arduino  
-- Bash  
-- Blender  
-- Bootstrap  
-- Bulma  
-- C  
-- C++  
-- CSS3  
-- Dart  
-- Docker  
-- Electron  
-- Express  
-- Figma  
-- Firebase  
-- Flask  
-- Flutter  
-- Framer  
-- Google Cloud  
-- Git  
-- Go  
-- GraphQL  
-- HTML5  
-- Illustrator  
-- Java  
-- JavaScript  
-- Kotlin  
-- Laravel  
-- Linux  
-- MongoDB  
-- MySQL  
-- Next.js  
-- Nginx  
-- Node.js  
-- OpenCV  
-- Pandas  
-- Photoshop  
-- PHP  
-- Postman  
-- React  
-- React Native  
-- Realm  
-- Scikit-Learn  
-- Seaborn  
-- Svelte  
-- TailwindCSS  
-- TensorFlow  
-- TypeScript  
-- Unity  
-- Vue.js  
-- Xamarin  
-- Adobe XD  
-
-
+<table>
+  <tr>
+    <td>Android</td>
+    <td>Angular</td>
+    <td>Arduino</td>
+  </tr>
+  <tr>
+    <td>Bash</td>
+    <td>Blender</td>
+    <td>Bootstrap</td>
+  </tr>
+  <tr>
+    <td>Bulma</td>
+    <td>C</td>
+    <td>C++</td>
+  </tr>
+  <tr>
+    <td>CSS3</td>
+    <td>Dart</td>
+    <td>Docker</td>
+  </tr>
+  <tr>
+    <td>Electron</td>
+    <td>Express</td>
+    <td>Figma</td>
+  </tr>
+  <tr>
+    <td>Firebase</td>
+    <td>Flask</td>
+    <td>Flutter</td>
+  </tr>
+  <tr>
+    <td>Framer</td>
+    <td>Google Cloud</td>
+    <td>Git</td>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td>GraphQL</td>
+    <td>HTML5</td>
+  </tr>
+  <tr>
+    <td>Illustrator</td>
+    <td>Java</td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>Kotlin</td>
+    <td>Laravel</td>
+    <td>Linux</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td>MySQL</td>
+    <td>Next.js</td>
+  </tr>
+  <tr>
+    <td>Nginx</td>
+    <td>Node.js</td>
+    <td>OpenCV</td>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>Photoshop</td>
+    <td>PHP</td>
+  </tr>
+  <tr>
+    <td>Postman</td>
+    <td>React</td>
+    <td>React Native</td>
+  </tr>
+  <tr>
+    <td>Realm</td>
+    <td>Scikit-Learn</td>
+    <td>Seaborn</td>
+  </tr>
+  <tr>
+    <td>Svelte</td>
+    <td>TailwindCSS</td>
+    <td>TensorFlow</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>Unity</td>
+    <td>Vue.js</td>
+  </tr>
+  <tr>
+    <td>Xamarin</td>
+    <td>Adobe XD</td>
+    <td></td>
+  </tr>
+</table>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazcalifornia&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dazcalifornia" /></p>
