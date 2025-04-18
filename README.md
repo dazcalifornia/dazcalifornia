@@ -29,59 +29,60 @@
 
 ### 🚀 Languages and Tools
 
-- ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) **Android**
-- ![Angular](https://angular.io/assets/images/logos/angular/angular.svg) **Angular**
-- ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) **Arduino**
-- ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) **Bash**
-- ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg) **Blender**
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) **Bootstrap**
-- ![Bulma](https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg) **Bulma**
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) **C**
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) **C++**
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) **CSS3**
-- ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) **Dart**
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) **Docker**
-- ![Electron](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) **Electron**
-- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) **Express**
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) **Figma**
-- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) **Firebase**
-- ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) **Flask**
-- ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) **Flutter**
-- ![Framer](https://www.vectorlogo.zone/logos/framer/framer-icon.svg) **Framer**
-- ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) **Google Cloud**
-- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) **Git**
-- ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) **Go**
-- ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) **GraphQL**
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) **HTML5**
-- ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) **Illustrator**
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
-- ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) **Kotlin**
-- ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg) **Laravel**
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) **Linux**
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) **MongoDB**
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**
-- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) **Next.js**
-- ![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) **Nginx**
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
-- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) **OpenCV**
-- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) **Pandas**
-- ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) **Photoshop**
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) **PHP**
-- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman**
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) **React**
-- ![React Native](https://reactnative.dev/img/header_logo.svg) **React Native**
-- ![Realm](https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg) **Realm**
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Scikit-Learn**
-- ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) **Seaborn**
-- ![Svelte](https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg) **Svelte**
-- ![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) **TailwindCSS**
-- ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) **TensorFlow**
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) **TypeScript**
-- ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) **Unity**
-- ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) **Vue.js**
-- ![Xamarin](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg) **Xamarin**
-- ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg) **Adobe XD**
+- Android  
+- Angular  
+- Arduino  
+- Bash  
+- Blender  
+- Bootstrap  
+- Bulma  
+- C  
+- C++  
+- CSS3  
+- Dart  
+- Docker  
+- Electron  
+- Express  
+- Figma  
+- Firebase  
+- Flask  
+- Flutter  
+- Framer  
+- Google Cloud  
+- Git  
+- Go  
+- GraphQL  
+- HTML5  
+- Illustrator  
+- Java  
+- JavaScript  
+- Kotlin  
+- Laravel  
+- Linux  
+- MongoDB  
+- MySQL  
+- Next.js  
+- Nginx  
+- Node.js  
+- OpenCV  
+- Pandas  
+- Photoshop  
+- PHP  
+- Postman  
+- React  
+- React Native  
+- Realm  
+- Scikit-Learn  
+- Seaborn  
+- Svelte  
+- TailwindCSS  
+- TensorFlow  
+- TypeScript  
+- Unity  
+- Vue.js  
+- Xamarin  
+- Adobe XD  
+
 
 
 
